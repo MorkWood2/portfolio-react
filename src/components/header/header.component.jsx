@@ -8,7 +8,7 @@ const Header = () => (
     <Navbar.Brand href='#home'>React-Bootstrap</Navbar.Brand>
     <Navbar.Toggle aria-controls='basic-navbar-nav' />
     <Navbar.Collapse id='basic-navbar-nav'>
-      <Nav className='ml-auto'>
+      <Nav className='ml-auto nav'>
         <Nav.Link href='#home'>ABOUT</Nav.Link>
         <Nav.Link href='#link'>PROJECTS</Nav.Link>
         <Nav.Link href='#link'>CONTACT</Nav.Link>

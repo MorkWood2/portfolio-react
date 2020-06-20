@@ -4,16 +4,16 @@ import './about.styles.scss';
 const About = () => (
   <div>
     <div className='container-info'>
-      <img
-        src={require('../../assets/portrait.jpg')}
-        alt='portrait of man'
-        className='portrait-img'
-      />
+      <div className='image-container'>
+        <img src={require('../../assets/portrait.jpg')} alt='portrait of man' />
+      </div>
       <div className='intro-text-container'>
-        <h2>hello, i'm mark </h2>
+        <h1>
+          hello, i'm <span>mark</span>{' '}
+        </h1>
         <p>
-          I am a software engineer and visual designer who is passionate about
-          clean code and great UI/UX
+          I am a <span>software engineer</span> and <span>visual designer</span>{' '}
+          who is passionate about clean code and great UI/UX
         </p>
         <p>
           In software engineering, I see myself as a fullstack web developer
