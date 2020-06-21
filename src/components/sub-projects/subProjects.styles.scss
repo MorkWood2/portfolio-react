@@ -1,0 +1,31 @@
+.subProject-container {
+  background-color: #e8e6ef;
+}
+
+.subProject-container {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  font-family: 'Rubik', sans-serif;
+  color: #3b3b3b;
+
+  img {
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25);
+  }
+
+  .subProjects {
+    max-width: 400px;
+
+    h3 {
+      padding: 25px 0 10px 0;
+    }
+
+    p {
+      padding-top: 10px;
+    }
+  }
+}
