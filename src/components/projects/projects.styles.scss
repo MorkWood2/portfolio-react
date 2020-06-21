@@ -5,7 +5,7 @@
 .project-content-container {
   padding-top: 125px;
   max-width: 1000px;
-  // border: powderblue 1px solid;
+  color: #3b3b3b;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -19,9 +19,7 @@
   }
 
   img:hover {
-    -webkit-box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
     transition: 0.5s;
   }
 
@@ -33,7 +31,6 @@
     h1 {
       padding: 45px 0 20px 0;
       font-size: 60px;
-      color: #57a4fd;
     }
 
     p {
