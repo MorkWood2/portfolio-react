@@ -1,0 +1,30 @@
+.project-container {
+  padding-top: 100px;
+  max-width: 1000px;
+  border: powderblue 1px solid;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  img {
+    max-width: 1000px;
+    border-radius: 10px;
+    -webkit-box-shadow: 1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+  }
+
+  img:hover {
+    -webkit-box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.75);
+    transition: 0.5s;
+  }
+
+  .project-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
