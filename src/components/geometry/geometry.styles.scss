@@ -1,5 +1,12 @@
-.geometry-background {
-  width: 100vw;
-  height: 100vh;
-  display: block;
+// .geometry-background {
+//   width: 100vw;
+//   height: 100vh;
+//   display: block;
+// }
+.geometry-container {
+  background: linear-gradient(
+    180deg,
+    rgba(251, 199, 212, 0.95),
+    rgba(151, 150, 240, 0.95)
+  );
 }
