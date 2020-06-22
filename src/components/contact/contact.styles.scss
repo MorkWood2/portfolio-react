@@ -32,6 +32,7 @@
       color: white;
       font-size: 35px;
       padding: 15px;
+      margin: 0 10px;
       border: 1px solid white;
       border-radius: 50%;
     }
@@ -51,4 +52,16 @@ footer {
   justify-content: center;
   align-items: center;
   font-family: 'Rubik', sans-serif;
+}
+
+@media only screen and (max-width: 1000px) {
+  .contact-container {
+    p {
+      width: 80%;
+    }
+    h5 {
+      width: 60%;
+      margin: 0 20%;
+    }
+  }
 }

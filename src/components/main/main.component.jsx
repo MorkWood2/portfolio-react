@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from '../header/header.component';
 import Geometry from '../geometry/geometry.component';
 import About from '../about/about.component';
 import Projects from '../projects/projects.component';
@@ -9,6 +10,7 @@ import './main.styles.scss';
 
 const Main = () => (
   <div>
+    <Header />
     <Geometry />
     <About />
     <Projects />

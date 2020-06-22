@@ -10,3 +10,13 @@
   margin: 0;
   padding: 0;
 }
+
+.link-item {
+  color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  padding-top: 9px;
+}
+
+.link-item:hover {
+  color: #9e9df0;
+}

@@ -4,7 +4,7 @@ import './contact.styles.scss';
 
 const Contact = () => (
   <div>
-    <div className='contact-container'>
+    <div className='contact-container' id='contact'>
       <h1>Mark Wild</h1>
       <h5>SOFTWARE ENGINEER + VISUAL DESIGNER</h5>
       <p>TECHNICAL SKILLS</p>

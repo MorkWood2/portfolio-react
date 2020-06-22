@@ -3,7 +3,7 @@ import './about.styles.scss';
 
 const About = () => (
   <div>
-    <div className='container-info'>
+    <div className='container-info' id='about'>
       <div className='image-container'>
         <img src={require('../../assets/portrait.jpg')} alt='portrait of man' />
       </div>

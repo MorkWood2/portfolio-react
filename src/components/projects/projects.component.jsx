@@ -3,7 +3,7 @@ import './projects.styles.scss';
 
 const Projects = () => (
   <div>
-    <div className='project-container'>
+    <div className='project-container' id='projects'>
       <div className='project-content-container'>
         <div className='projects'>
           <a href='https://morkwood2.github.io/neo-art/'>
