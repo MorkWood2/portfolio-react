@@ -15,8 +15,10 @@
   color: rgba(0, 0, 0, 0.5);
   cursor: pointer;
   padding-top: 9px;
+  transition: 0.75s;
 }
 
 .link-item:hover {
   color: #9e9df0;
+  transition: 0.25s;
 }

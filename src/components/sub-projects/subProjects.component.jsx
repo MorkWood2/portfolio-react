@@ -15,7 +15,7 @@ const SubProjects = () => (
 
           <p>
             Organic shapes, color harmony, and svg graphics makes this
-            fictitious website almost believable...
+            fictitious website <i>almost</i> believable...
           </p>
         </div>
         <div className='subProjects'>
@@ -36,7 +36,7 @@ const SubProjects = () => (
           <h3>oakShare</h3>
           <h6>CRUD platform</h6>
 
-          <p>An art share application for Oakland based artists.</p>
+          <p>An art share application for artists.</p>
         </div>
       </div>
     </div>

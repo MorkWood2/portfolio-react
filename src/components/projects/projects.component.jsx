@@ -13,16 +13,14 @@ const Projects = () => (
           <h5>Art & Design</h5>
 
           <p>
-            Beam Up is an ethereal, immersive 3D experience that sends a user on
-            a journey beyond our solar system, ultimately revealing the beauty
-            and splendor of the existence of life on earth. Traveling through
-            the universe, the user will discover different earth-like exoplanets
-            to be considered for possible human habitation, and end the journey
-            with a wish for the universe. Interacting with each planet reveals
-            data sourced from NASA along with its habitability status.
-            Aesthetically, this web app has a dreamy, uplifting, feminine feel,
-            and implements the NERDS stack in combination with Three.JS to bring
-            the 3D space to life.
+            A public declaration of my two greatest loves in this world. Coding
+            and art. Inspired by the vast array of public art in Oakland and in
+            the spirit of photojournalism, this project follows my journey to
+            document and showcase some of my favorite pieces in the ever
+            changing underworld of street art in the San Francisco Bay Area.
+            Leveraging Google Maps Api & Javascript, I carefully designed this
+            page to reflect the hues and cultures of the neighborhoods around
+            me, this project is the embodiment of art and composition.
           </p>
         </div>
         <div className='projects'>
@@ -33,16 +31,12 @@ const Projects = () => (
           <h5>E Commerce Website </h5>
 
           <p>
-            Beam Up is an ethereal, immersive 3D experience that sends a user on
-            a journey beyond our solar system, ultimately revealing the beauty
-            and splendor of the existence of life on earth. Traveling through
-            the universe, the user will discover different earth-like exoplanets
-            to be considered for possible human habitation, and end the journey
-            with a wish for the universe. Interacting with each planet reveals
-            data sourced from NASA along with its habitability status.
-            Aesthetically, this web app has a dreamy, uplifting, feminine feel,
-            and implements the NERDS stack in combination with Three.JS to bring
-            the 3D space to life.
+            Olem Inc. is an e-commerce website that sells appeal. Front-end cart
+            and inventory components were designed and developed by integrating
+            React, Redux, and the Stripe Api. This progressive web application
+            is built with performance, and scale in mind. Tested with Jest, with
+            Google’s Firebase as a backend, it is continuously deployed to
+            Heroku.
           </p>
         </div>
         <div className='projects'>
@@ -53,16 +47,11 @@ const Projects = () => (
           <h5>Contact Storage App</h5>
 
           <p>
-            Beam Up is an ethereal, immersive 3D experience that sends a user on
-            a journey beyond our solar system, ultimately revealing the beauty
-            and splendor of the existence of life on earth. Traveling through
-            the universe, the user will discover different earth-like exoplanets
-            to be considered for possible human habitation, and end the journey
-            with a wish for the universe. Interacting with each planet reveals
-            data sourced from NASA along with its habitability status.
-            Aesthetically, this web app has a dreamy, uplifting, feminine feel,
-            and implements the NERDS stack in combination with Three.JS to bring
-            the 3D space to life.
+            Full stack MERN contact manager application with React hooks,
+            context & JWT authentication. From navigating https requests via
+            Postman to handling Json Web Tokens with MongoDB, this application
+            is an exercise in functionality, all wrapped up in a straightforward
+            interface.
           </p>
         </div>
       </div>

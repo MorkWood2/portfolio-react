@@ -18,21 +18,17 @@ const About = () => (
         <p>
           In software engineering, I see myself as a fullstack web developer
           with a strength in the frontend. In design, my specialties are digital
-          media, video, and hand-drawn illustration with an artist’s attention
-          to detail and quality. I have a unique ability to rely on my own
-          aesthetic sensibilities to elevate lo-fi wireframes into elegant user
-          interfaces, leverage product insights to develop features, and rapidly
-          learn new technologies along the way.
+          media, video, and web design. I have a unique ability to rely on my
+          own aesthetic sensibilities to create elegant user interfaces,
+          leverage product insights to develop features, and rapidly learn new
+          technologies along the way.
         </p>
         <p>
-          My startup experience has given me a rich, multi-disciplinary array of
-          experiences: designing frontend architecture with ReactJS and GraphQL,
-          developing API features with TypeScript and TypeORM, supporting data
-          requests with SQL and Node scripts, providing tech support for end
-          users, conducting user testing and gathering feature requirements, and
-          collaborating on cross-functional agile teams. I am emphatic about
-          maintaining strong communication and writing good documentation to
-          centralize shared knowledge.
+          My programming background has given me a rich, multi-disciplinary
+          array of experiences: designing frontend architecture with React and
+          Redux, developing single page applications with unidirectional data
+          flow and persistence. Handling data requests with Express and Node
+          scripts.
         </p>
         <p>
           Highly curious, analytical, and creative, I am driven by the challenge
