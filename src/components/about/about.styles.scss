@@ -27,7 +27,7 @@
   }
 
   img {
-    height: 500px;
+    max-height: 500px;
   }
 
   .image-container {
@@ -43,5 +43,13 @@
   }
   .intro-text-container {
     margin: 35px auto;
+  }
+}
+
+@media only screen and (max-width: 475px) {
+  img {
+    height: 100%;
+    width: 90%;
+    padding: 0 5%;
   }
 }
