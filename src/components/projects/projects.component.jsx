@@ -24,6 +24,20 @@ const Projects = () => (
           </p>
         </div>
         <div className='projects'>
+          <a href='https://morkwood2.github.io/covid-tracker/'>
+            <img src={require('../../assets/covid.png')} alt='project' />
+          </a>
+          <h1>Covid-19 Tracker</h1>
+          <h5>Data Visualization </h5>
+
+          <p>
+            COVID19 web dashboard built in React that provides real time data,
+            fetched from an open-source API. Utilizes chart.js to spread data to
+            visualize metrics. This application is an exercise in functionality,
+            all wrapped up in a straightforward interface.
+          </p>
+        </div>
+        <div className='projects'>
           <a href='https://commerce-live.herokuapp.com/'>
             <img src={require('../../assets/project2.png')} alt='project' />
           </a>
@@ -37,21 +51,6 @@ const Projects = () => (
             is built with performance, and scale in mind. Tested with Jest, with
             Google’s Firebase as a backend, it is continuously deployed to
             Heroku.
-          </p>
-        </div>
-        <div className='projects'>
-          <a href='https://limitless-retreat-71267.herokuapp.com/login'>
-            <img src={require('../../assets/project3.png')} alt='project' />
-          </a>
-          <h1>People Keeper</h1>
-          <h5>Contact Storage App</h5>
-
-          <p>
-            Full stack MERN contact manager application with React hooks,
-            context & JWT authentication. From navigating https requests via
-            Postman to handling Json Web Tokens with MongoDB, this application
-            is an exercise in functionality, all wrapped up in a straightforward
-            interface.
           </p>
         </div>
       </div>

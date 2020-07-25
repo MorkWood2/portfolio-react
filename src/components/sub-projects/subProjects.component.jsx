@@ -30,13 +30,16 @@ const SubProjects = () => (
           </p>
         </div>
         <div className='subProjects'>
-          <a href='https://powerful-beyond-97610.herokuapp.com/art'>
-            <img src={require('../../assets/subproject3.png')} alt='project' />
+          <a href='https://limitless-retreat-71267.herokuapp.com/login'>
+            <img src={require('../../assets/project3.png')} alt='project' />
           </a>
-          <h3>oakShare</h3>
-          <h6>CRUD platform</h6>
+          <h3>People Keeper</h3>
+          <h6>MERN Contact Storage App</h6>
 
-          <p>An art share application for artists.</p>
+          <p>
+            Full stack MERN contact manager application with React hooks,
+            context & JWT authentication.
+          </p>
         </div>
       </div>
     </div>
