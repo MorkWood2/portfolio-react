@@ -11,9 +11,11 @@ const Contact = () => (
       <p>
         PROFICIENT | JavaScript, React, Node, Express, MongoDB, Heroku, HTML5,
         CSS3, SASS, Redux, Git & Github, Bootstrap, Object-Oriented Programming,
-        Functional Programming, Agile FAMILIAR | Redux-Saga, GraphQL, GatsbyJS,
-        AWS, Jest & React Testing Library, Babel, Firebase, Webpack, SQL,
-        Docker, OAuth, Passport, Sockets, Stripe
+        Functional Programming, Agile methodology
+        <br />
+        FAMILIAR | AWS, Docker, Deno, Redux-Saga, GraphQL, GatsbyJS, AWS, Jest &
+        React Testing Library, Babel, Firebase, Webpack, SQL, Docker, OAuth,
+        Passport, Web Sockets, Stripe
       </p>
       <p>CREATIVE SKILLS</p>
       <p>
